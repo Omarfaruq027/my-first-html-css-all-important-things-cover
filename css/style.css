@@ -2,10 +2,10 @@
   font-family: "Poppins", sans-serif;
   margin: 0;
 }
-.first-heading {
+.padding-from-bottom {
   padding-bottom: 40px;
 }
-#padding {
+#padding-from-top {
   padding-top: 40px;
 }
 
