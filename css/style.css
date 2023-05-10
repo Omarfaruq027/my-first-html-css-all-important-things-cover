@@ -11,6 +11,7 @@ h1 {
 }
 .flex-items {
   display: flex;
+  margin-top: 40px;
   margin-bottom: 10px;
 }
 .top-banner {
@@ -45,9 +46,31 @@ p {
   background-image: linear-gradient(rgb(255, 255, 255), rgb(230, 95, 54));
   background-size: cover;
   padding: 10px;
+  margin-bottom: 10px;
+}
+.dream-fix {
+  margin-top: 70px;
+  padding: 25px;
 }
 /* banner-section-end*/
 /* experience section start */
+.experience-area {
+  padding: 50px;
+}
+.experience-area h1 {
+  position: relative;
+  left: 37%;
+  bottom: 10px;
+}
+.experience-area p {
+  padding: 30px;
+}
+.experience-area h2,
+h3 {
+  align-items: center;
+  margin-left: 15px;
+  padding: 15px;
+}
 .box-shadow-design {
   width: 40%;
   margin-left: 5%;
@@ -55,12 +78,9 @@ p {
   padding-left: 10px;
   box-shadow: 10px 12px 40px rgb(235, 107, 68);
   border-radius: 5px;
-  border-left: 10px, solid, blue;
 }
-.exp {
-  display: inline;
-  align-items: center;
-}
+/* footer section */
 footer p {
+  padding: 20px;
   text-align: center;
 }
