@@ -1,7 +1,9 @@
+/* common code start */
 * {
   font-family: "Poppins", sans-serif;
   margin: 0;
 }
+/* common code end */
 /* header-section */
 h1 {
   font-size: 50px;
@@ -79,8 +81,10 @@ h3 {
   box-shadow: 10px 12px 40px rgb(235, 107, 68);
   border-radius: 5px;
 }
-/* footer section */
+/* experience section end */
+/* footer section start */
 footer p {
   padding: 20px;
   text-align: center;
 }
+/* footer section end */
